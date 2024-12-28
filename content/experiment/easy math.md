@@ -2,7 +2,8 @@
 title: easy math
 draft: false
 tags:
-  - example-tag
+  - resources
+  - math
 ---
  
-easy way https://calculusmadeeasy.org/4.html
+https://calculusmadeeasy.org/4.html
