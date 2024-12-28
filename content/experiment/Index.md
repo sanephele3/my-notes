@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - intro
+    - easy math
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
